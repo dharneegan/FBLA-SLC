@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487150948994",
+    "project_id": "databaseproj-35751",
+    "storage_bucket": "databaseproj-35751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487150948994:android:1c8a41dee377db3a549a9b",
+        "android_client_info": {
+          "package_name": "com.example.flutter.testdrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ikmH_d2Q6bjK4oAV5NaOAWOVCaEhkhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
